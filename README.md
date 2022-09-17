@@ -1,3 +1,18 @@
 # Welcome Basecamp-Clone 
 
 <h3>this is <a href="https://basecamp-00.herokuapp.com/">Basecamp</a></h3>
+
+
+
+# Abilities 
+<ul>
+<li>Auth</li>
+<li>Create Projectt</li>
+<li>Delete Projectt</li>
+<li>Edit Project</li>
+<li>Edit Profile</li>
+</ul>
+
+# Description 
+
+<h5>In this project, the user registers and can create, edit and delete his project. That is, a clone version of the Basecamp project</h5>
