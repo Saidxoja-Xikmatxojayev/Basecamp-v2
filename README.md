@@ -14,5 +14,5 @@
 </ul>
 
 # Description 
-
+<h3>Brief information</h3>
 <h5>In this project, the user registers and can create, edit and delete his project. That is, a clone version of the Basecamp project</h5>
